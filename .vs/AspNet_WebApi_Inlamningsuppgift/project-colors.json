@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "130fad62-24a1-4d17-8b3f-bcad1ddb1dca": {
+      "ProjectGuid": "130fad62-24a1-4d17-8b3f-bcad1ddb1dca",
+      "DisplayName": "E_Commerce_WebApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
